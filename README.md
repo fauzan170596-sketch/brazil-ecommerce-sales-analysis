@@ -66,3 +66,9 @@ The preparation process includes:
 - Handling missing values.
 - Converting timestamp fields into monthly periods.
 - Creating calculated fields for KPI metrics.
+
+## 📄 Project Portfolio
+
+This portfolio presents the complete end-to-end business case for the **Brazilian E-Commerce Sales Performance Analysis** project, including the business problem, project objectives, dashboard development process, key insights, business recommendations, and learning outcomes.
+
+**Portfolio PDF:** [View Data Analyst Portfolio Assignment](./Fauzan_Falah_Rabbani_Portfolio_Assignment_Tableau_Premium.pdf)
